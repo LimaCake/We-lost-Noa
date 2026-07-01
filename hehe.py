@@ -1,4 +1,3 @@
-while True:
-    print("noa is lost")
-    print("hello world")
+hello = input("Hello world")
 
+print(hello)
