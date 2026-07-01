@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+print("NOA! CAN YOU HEAR ME?")
 print("NOA! FOLLOW MY VOICE...")
