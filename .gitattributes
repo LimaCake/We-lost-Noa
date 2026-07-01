@@ -2,5 +2,5 @@
 * text=auto
 print("NOA! CAN YOU HEAR ME?")
 
-
-dhdwhajk
+while True:
+    print("im real")
